@@ -49,6 +49,6 @@
     position: relative;
 }
 
-.main_header:hover .main_header-circle {
+.main_header-right .main_header-circle {
     filter: blur(15px);
 }
