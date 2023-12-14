@@ -42,7 +42,7 @@
     position: absolute;
     background: linear-gradient(75deg, var(--color-secondary), transparent);
     border-radius: 50%;
-    
+    transition: var(--transition);
 }
 
 .main_header-image {
