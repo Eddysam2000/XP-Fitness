@@ -42,4 +42,13 @@
     position: absolute;
     background: linear-gradient(75deg, var(--color-secondary), transparent);
     border-radius: 50%;
+    
+}
+
+.main_header-image {
+    position: relative;
+}
+
+.main_header:hover .main_header-circle {
+    filter: blur(15px);
 }
