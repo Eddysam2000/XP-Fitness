@@ -11,7 +11,7 @@ const MainHeader = () => {
           <p>
           The hard days are the best because that's when champions are made, so if you push through, you can push through anything.
           </p>
-          <Link to="/plans" className='btn lg'>Get Started</Link>
+          <Link to="/plans" className='btn lg'>Get Startedd</Link>
         </div>
         <div className="main_header-right">
           <div className="main_header-circle"></div>
