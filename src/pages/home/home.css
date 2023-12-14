@@ -32,4 +32,14 @@
 
 .main_header-right {
     display: grid;
+    position: relative;
+    place-items: center;
+}
+
+.main_header-circle {
+    height: 25rem;
+    width: 25rem;
+    position: absolute;
+    background: linear-gradient(75deg, var(--color-secondary), transparent);
+    border-radius: 50%;
 }
