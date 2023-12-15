@@ -6,7 +6,7 @@ const MainHeader = () => {
     <header className="main_header">
       <div className="container main_header-container">
         <div className="main_header-left">
-          <h4>#100DaysOfWorkOut</h4>
+          <h4>#100DayOfWorkOut</h4>
           <h2>Join The Legends Of The Fitness World</h2>
           <p>
           The hard days are the best because that's when champions are made, so if you push through, you can push through anything.
