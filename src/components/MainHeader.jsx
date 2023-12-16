@@ -9,7 +9,7 @@ const MainHeader = () => {
           <h4>#100DaysOfWorkOut</h4>
           <h2>Join The Legends Of The Fitness World</h2>
           <p>
-          The hard days are the best because that's when champions are made, so if you push through, you can push through.
+          The hard days are the best because that's when champions are made, so if you push through, you can push through .
           </p>
           <Link to="/plans" className='btn lg'>Get Started</Link>
         </div>
