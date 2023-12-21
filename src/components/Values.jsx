@@ -25,6 +25,7 @@ const Values = () => {
                             return <Card className='values_value'>
                                 <span>{icon}</span>
                                 <h4>{title}</h4>
+                                <small>{desc}</small>
                             </Card>
                         })
                     }
