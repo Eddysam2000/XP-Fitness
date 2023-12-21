@@ -157,3 +157,9 @@ section {
     color: var(--color-gray-600);
     background: var(--color-secondary);
 }
+
+.card small {
+    display: block;
+    font-weight: 300;
+    margin-top: 1rem;
+}
