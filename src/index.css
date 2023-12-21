@@ -141,8 +141,19 @@ section {
 .card span {
     height: 3rem;
     width: 3rem;
+    margin-bottom: 1.5rem;
+    display: grid;
+    place-items: center;
+    border-radius: 1rem;
     padding: 0.8rem;
     font-size: 1.5rem;
+    margin-inline: auto;
     color: var(--color-gray-100);
     background: var(--color-primary);
+    transition: var(--transition);
+}
+
+.card:hover span {
+    color: var(--color-gray-600);
+    background: var(--color-secondary);
 }
