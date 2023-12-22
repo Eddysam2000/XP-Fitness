@@ -17,7 +17,7 @@ const Values = () => {
             <div className="values_right">
                 <SectionHead icon={<GiCutDiamond/>} title="Values"/>
                 <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, excepturi aliquam? Adipisci, sunt
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, excepturi aliquam? Adipisci, sunt!
                 </p>
                 <div className="values_wrapper">
                     {
