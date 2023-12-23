@@ -6,7 +6,11 @@ import FAQ  from "./FAQ"
 
 const FAQs = () => {
   return (
-    <div>FAQs</div>
+    <section className="faqs">
+      <div className="container faqs_container">
+        <SectionHead icon={FaQuestion} title="FAQs" />
+      </div>
+    </section>
   )
 }
 
