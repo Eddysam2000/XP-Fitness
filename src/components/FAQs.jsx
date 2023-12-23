@@ -8,7 +8,7 @@ const FAQs = () => {
   return (
     <section className="faqs">
       <div className="container faqs_container">
-        <SectionHead icon={FaQuestion} title="FAQs" />
+        <SectionHead icon={<FaQuestion/>} title="FAQs" />
         <div className="faqs_wrapper">
           {
             faqs.map(({id,question, answer}) => {

@@ -9,6 +9,7 @@ const FAQ = ({question, answer}) => {
           <AiOutlinePlus/>
         </button>
       </div>
+      <p>{answer}</p>
     </article>
   )
 }
