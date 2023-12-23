@@ -11,7 +11,9 @@ const FAQs = () => {
         <SectionHead icon={FaQuestion} title="FAQs" />
         <div className="faqs_wrapper">
           {
-            
+            faqs.map(({id,question, answer}) => {
+              return <FAQ key={id} question={question} answer={answer}/>
+            })
           }
         </div>
       </div>
