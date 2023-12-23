@@ -9,6 +9,11 @@ const FAQs = () => {
     <section className="faqs">
       <div className="container faqs_container">
         <SectionHead icon={FaQuestion} title="FAQs" />
+        <div className="faqs_wrapper">
+          {
+            
+          }
+        </div>
       </div>
     </section>
   )
