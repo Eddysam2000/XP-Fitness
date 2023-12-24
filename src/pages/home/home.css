@@ -163,3 +163,23 @@
     margin-inline: auto;
     width: 50rem;
 }
+
+.testimonials_head {
+    justify-content: center;
+}
+
+.card.testimonial {
+    margin-top: 5rem;
+    text-align: left;
+    position: relative;
+}
+
+.testimonial_avatar {
+    position: absolute;
+    border-radius: 1.5rem;
+    width: 4rem;
+    height: 4rem;
+    overflow: hidden;
+    top: -2rem;
+    left: calc(50% - 2rem);
+}
