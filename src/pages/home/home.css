@@ -200,3 +200,9 @@
 .card small.testimonial_title {
     margin-top: 0.3rem;
 }
+
+.testimonials_btn-container {
+    display: flex;
+    width: fit-content;
+    margin: 2.5rem auto 0;
+}
