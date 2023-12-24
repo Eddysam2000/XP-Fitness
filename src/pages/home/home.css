@@ -180,8 +180,23 @@
     width: 4rem;
     height: 4rem;
     overflow: hidden;
+    border: 2px solid transparent;
     box-shadow: 0 1.5rem 2rem rgba(26, 26, 54, 0.4);
     top: -2rem;
     left: calc(50% - 2rem);
     transition: var(--transition);
+}
+
+.testimonial:hover .testimonial_avatar {
+    border-color: var(--color-gray-400);
+    border-radius: 50%;
+}
+
+.testimonial_quote {
+    font-style: italic;
+    margin: 1rem 0 2rem;
+}
+
+.card small.testimonial_title {
+    margin-top: 0.3rem;
 }

@@ -18,7 +18,7 @@ const Testimonials = () => {
                 <div className="testimonial_avatar">
                     <img src={avatar} alt={name} />
                 </div>
-                <p className="testiminial_quote">{`"${quote}"`}</p>
+                <p className="testimonial_quote">{`"${quote}"`}</p>
                 <h5>{name}</h5>
                 <small className="testimonial_title">{job}</small>
             </Card>
