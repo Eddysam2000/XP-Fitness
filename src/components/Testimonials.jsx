@@ -8,7 +8,7 @@ import { testimonials } from "../data"
 
 
 const Testimonials = () => {
-    const [index, setIndex] = useState(0)
+    const [index, setIndex] = useState(3)
     const {name,quote, job, avatar} = testimonials[index]
   return (
     <section className="testimonials">
