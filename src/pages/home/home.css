@@ -209,3 +209,8 @@
     justify-content: center;
     gap: 1rem;
 }
+
+.testimonials_btn {
+    cursor: pointer;
+    background: transparent;
+}
