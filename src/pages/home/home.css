@@ -116,3 +116,39 @@
     position: absolute;
     top: -1.5rem;
 }
+
+
+
+
+
+/* ========= FAQS =========== */
+.faqs_wrapper {
+    margin-top: 4rem;
+    align-items: flex-start;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem 5rem;
+}
+
+.faq {
+    padding: 2rem;
+    cursor: pointer;
+    background: var(--color-gray-500);
+    border-radius: 1rem;
+}
+
+.faq div {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.faq_icon {
+    font-size: 1.5rem;
+    background: transparent;
+    color: var(--color-gray-100);
+}
+
+.faq p {
+    margin-top: 1.5rem;
+}
