@@ -152,3 +152,14 @@
 .faq p {
     margin-top: 1.5rem;
 }
+
+
+
+
+
+
+/* ========= TESTIMONIALS =========== */
+.testimonials {
+    margin-inline: auto;
+    width: 50rem;
+}
