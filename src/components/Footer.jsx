@@ -17,7 +17,7 @@ const Footer = () => {
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus quis illum deleniti, perferendis fugit cumque similique? Consequuntur eaque enim in?
                 </p>
                 <div className="footer_socials">
-                    <a href="https://linkedin.com"></a>
+                    <a href="https://linkedin.com/" target="_blank"></a>
                 </div>
             </article>
         </div>
