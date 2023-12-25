@@ -17,7 +17,10 @@ const Footer = () => {
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus quis illum deleniti, perferendis fugit cumque similique? Consequuntur eaque enim in?
                 </p>
                 <div className="footer_socials">
-                    <a href="https://linkedin.com/" target="_blank"></a>
+                    <a href="https://linkedin.com/" target="_blank" rel="noreferrer noopener"><FaLinkedin/></a>
+                    <a href="https://facebook.com/" target="_blank" rel="noreferrer noopener"><FaLinkedin/></a>
+                    <a href="https://twitter.com/" target="_blank" rel="noreferrer noopener"><FaLinkedin/></a>
+                    <a href="https://instagram.com/" target="_blank" rel="noreferrer noopener"><FaLinkedin/></a>
                 </div>
             </article>
         </div>
