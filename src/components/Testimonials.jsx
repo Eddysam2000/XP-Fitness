@@ -12,7 +12,11 @@ const Testimonials = () => {
     const {name,quote, job, avatar} = testimonials[index]
 
     const prevTestimonialHandler = () => {
+        setIndex(prev => prev - 1);
 
+        if(index <= 0){
+            setIndex(testimonials.length - 1);
+        }
     }
 
     const nextTestimonialHandler = () => {
