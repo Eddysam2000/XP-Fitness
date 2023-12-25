@@ -17,6 +17,10 @@ const Testimonials = () => {
 
     const nextTestimonialHandler = () => {
         setIndex(prev => prev + 1);
+
+        if(index >= testimonials.length - 1){
+            setIndex(0);
+        }
     }
 
   return (
