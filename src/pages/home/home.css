@@ -322,6 +322,8 @@ footer {
 
 /* VALUES */
     .values_container {
-        
+        grid-template-columns: 1fr;
+        gap: 4rem;
+        justify-content: center;
     }
 }
