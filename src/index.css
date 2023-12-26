@@ -172,4 +172,8 @@ section {
     .container {
         width: var(--container-width-md);
     }
+
+    h2 {
+        font-size: 2rem;
+    }
 }
