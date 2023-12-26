@@ -326,4 +326,12 @@ footer {
         gap: 4rem;
         justify-content: center;
     }
+
+    .values_wrapper {
+        gap: 4rem 3rem;
+    }
+
+    .values_image {
+        display: none;
+    }
 }
