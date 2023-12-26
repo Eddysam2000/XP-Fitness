@@ -300,6 +300,23 @@ footer {
 @media screen and (max-width: 1024px) {
 /* MAIN HEADER */
     .main_header {
-        
+        padding: 12rem 0;
+        height: fit-content;
+        /* padding-top: 4rem; */
+    }
+
+    .main_header-container {
+        gap: 0;
+    }
+
+    .main_header-circle {
+        height: 16rem;
+        width: 16rem;
+    }
+
+
+/* PROGRAMS */
+    .programs_wrapper {
+        grid-template-columns: 1fr 1fr;
     }
 }
