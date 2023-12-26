@@ -319,4 +319,9 @@ footer {
     .programs_wrapper {
         grid-template-columns: 1fr 1fr;
     }
+
+/* VALUES */
+    .values_container {
+        
+    }
 }
