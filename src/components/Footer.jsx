@@ -26,8 +26,8 @@ const Footer = () => {
             <article>
                 <h4>Permalinks</h4>
                 <Link to="/about">About</Link>
-                <Link to="/plans">Plans</Link>
-                <Link to="/trainers">Trainers</Link>
+                <Link to="/plans">Plan</Link>
+                <Link to="/trainers">Trainer</Link>
                 <Link to="/gallery">Gallery</Link>
                 <Link to="/contact">Contact</Link>
             </article>
