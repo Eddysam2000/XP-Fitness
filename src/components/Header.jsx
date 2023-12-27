@@ -4,7 +4,10 @@ const Header = ({title, image, children}) => {
     <header className="header">
         <div className="header_container">
             <div className="header_container-bg">
-                
+                <img src={image} alt="Header Image" />
+            </div>
+            <div className="header_content">
+                <h2>{title}</h2>
             </div>
         </div>
     </header>
