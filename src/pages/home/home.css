@@ -400,4 +400,27 @@ footer {
         margin-top: 3rem;
         gap: 1rem;
     }
+
+/* TESTIMONIALS */
+    .testimonials {
+        width: 100%;
+    }
+
+/* FOOTER */
+    footer {
+        margin-top: 7rem;
+    }
+
+    .footer_container {
+        gap: 3rem;
+        grid-template-columns: 1fr;
+    }
+
+    .footer_container article {
+         align-items: center;
+}
+
+    .footer_container article p {
+        text-align: center;
+    }
 }
