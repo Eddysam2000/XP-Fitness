@@ -383,4 +383,10 @@ footer {
         margin: 0 auto;
         width: 84%;
     }
+
+/* VALUES */
+    .values_wrapper {
+        gap: 3rem;
+        grid-template-columns: 1fr;
+    }
 }
