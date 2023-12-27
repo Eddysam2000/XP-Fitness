@@ -389,4 +389,9 @@ footer {
         gap: 3rem;
         grid-template-columns: 1fr;
     }
+
+    .card.values_value {
+        margin-inline: auto;
+        width: 84%;
+    }
 }
