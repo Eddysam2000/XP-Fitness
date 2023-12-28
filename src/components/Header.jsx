@@ -8,6 +8,7 @@ const Header = ({title, image, children}) => {
             </div>
             <div className="header_content">
                 <h2>{title}</h2>
+                <p>{children}</p>
             </div>
         </div>
     </header>
