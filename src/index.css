@@ -167,6 +167,33 @@ section {
 
 
 
+
+
+.header {
+    height: 20rem;
+    margin-top: 5rem;
+    border-bottom: 2px solid var(--color-gray-400);
+    overflow: hidden;
+}
+
+.header_container {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: grid;
+    place-items: center;
+    background: black;
+}
+.header_container-bg {
+    width: 100%;
+    position: absolute;
+}
+
+
+
+
+
+
 /* MEDIA QUERIES (medium screens) */
 @media screen and (max-width: 1024px) {
     .container {
