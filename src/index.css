@@ -189,6 +189,10 @@ section {
     position: absolute;
 }
 
+.header_container-bg img {
+    opacity: 0.5;
+}
+
 
 
 
