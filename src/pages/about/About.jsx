@@ -1,6 +1,6 @@
 import Header from '../../components/Header'
 import HeaderImage from '../../images/header.png'
-import StoryImage from '../../images/hull.png'
+import StoryImage from '../../images/main.png'
 import './about.css'
 
 const About = () => {
