@@ -34,7 +34,7 @@ const About = () => {
     <section className="about_vision">
       <div className="container about_vision-container">
         <div className="about_section-image">
-          <img src={StoryImage} alt="Our Vision Image" />
+          <img src={VisionImage} alt="Our Vision Image" />
         </div>
         <div className="about_section-content">
           <h1>Our Vision</h1>
