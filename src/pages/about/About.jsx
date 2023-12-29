@@ -29,6 +29,26 @@ const About = () => {
         </div>
       </div>
     </section>
+
+    <section className="about_vision">
+      <div className="container about_vision-container">
+        <div className="about_section-image">
+          <img src={StoryImage} alt="Our Story Image" />
+        </div>
+        <div className="about_vision-content">
+          <h1>Our Vision</h1>
+          <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde quis corporis amet, neque provident culpa dolorum voluptatum libero quasi voluptate aspernatur debitis numquam consequatur mollitia. Unde rerum velit blanditiis accusamus corrupti nobis et, deserunt odio dolorem id eveniet dignissimos cum.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit et rerum cupiditate dolores earum voluptates pariatur debitis porro eveniet consequatur quis corrupti, impedit quibusdam, sapiente ut? Provident, facere laudantium?
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad consequatur nulla, porro quidem molestias suscipit.
+          </p>
+        </div>
+      </div>
+    </section>
     </>
   )
 }
