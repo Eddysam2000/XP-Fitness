@@ -20,3 +20,8 @@
 .about_section-content p {
     margin-bottom: 1rem;
 }
+
+.about_story-container {
+    display: grid;
+    grid-template-columns: 40%;
+}
