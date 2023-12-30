@@ -40,7 +40,7 @@ const About = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde quis corporis amet, neque provident culpa dolorum deserunt odio dolorem id eveniet dignissimos cum.
           </p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit et rerum cupiditate dolores earum Provident, facere laudantium?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit et rerum cupiditate dolos earum Provident, facere laudantium?
           </p>
         </div>
         <div className="about_section-image">
