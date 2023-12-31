@@ -57,7 +57,7 @@ const About = () => {
         <div className="about_section-content">
           <h1>Our Mission</h1>
           <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde quis corporis amet, neque provident culpa dolorum voluptatum libero quasi voluptate aspernatur debitis numquam consequatur mollitia. id eveniet dignissimos cum.
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde quis corporis amet, neque provident culpa dolorum voluptatum libero quasi voluptate aspernatur debitis numquam consequatur mollitia. id eveniet dignisimos cum.
           </p>
           {/* <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis fugit et rerum cupiditate dolores earum voluptates pariatur debitis porro eveniet Provident, facere laudantium?
