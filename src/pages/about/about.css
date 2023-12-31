@@ -49,5 +49,10 @@
 
     .about_story-container, .about_vision-container, .about_mission-container {
         grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+
+    .about_vision .about_section-image {
+        grid-row: 1;
     }
 }
