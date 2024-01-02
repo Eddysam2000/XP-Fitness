@@ -11,7 +11,7 @@ import './contact.css'
 const Contact = () => {
   return (
     <>
-    <Header></Header>
+    <Header title="Get In Touch"></Header>
     </>
   )
 }
